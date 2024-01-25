@@ -1,42 +1,36 @@
-body {
+body{
   margin: auto;
   background-color: #F00;
   font-family: arial;
 }
-
-header {
+header{
   text-align: center;
   background-color: darkorange;
 }
-
 .container {
   position: relative;
-  width: 420px;
+  width: -200px;
   height: 700px;
   text-align: center;
 }
-
 .message {
   position: absolute;
   display: none;
   text-align: center;
-  top: 200px;
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
+  top: 250px;
+  width:100%;
+  background-color: rgba(255,255,255,0.8);
   padding: 0 0 30px;
-}
-
+  margin:0px;}
 .message p {
   margin: 0px;
   text-align: center;
 }
-
 .mainText {
   font-size: 64px;
   color: #F00;
   text-align: center;
 }
-
 .subText {
   font-size: 32px;
   color: #000;
@@ -55,8 +49,7 @@ header {
   margin: 10px auto 0;
   text-align: center;
 }
-
-img {
+img{
   top: 4%;
   text-align: center;
 }
