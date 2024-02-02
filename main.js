@@ -190,7 +190,7 @@ class BubbeGame {
   showReadyMessage() {
     const p = document.createElement("p");
     p.classList.add("mainText");
-    p.textContent = "バブルゲーム";
+    p.textContent = "カラーボールゲーム";
     const p2 = document.createElement("p");
     p2.classList.add("subText");
     p2.textContent = "バブルを大きくしよう";
