@@ -72,9 +72,7 @@ particlesJS("particles-js", {
 		}
 	},
 	"retina_detect":false
-});
-particlesJS("particles-js",{
-	"particles":{
+})
 		"number":{
 			"value":125,//この数値を変更すると紙吹雪の数が増減できる
 			"density":{
